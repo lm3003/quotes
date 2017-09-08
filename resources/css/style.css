@@ -1,0 +1,10 @@
+body {
+    background: url('http://portfolio-img-3003.s3-website.ap-south-1.amazonaws.com/Watercolor-Silver-Texture.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    /*-webkit-background-size: cover;*/
+    /*-moz-background-size: cover;*/
+    /*-o-background-size: cover;*/
+    background-size: cover;
+}
